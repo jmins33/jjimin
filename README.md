@@ -1,7 +1,7 @@
-# 청년취업아카데미 Asia경제 빅데이터 분석가 양성과정 Lecture
+## 청년취업아카데미 Asia경제 빅데이터 분석가 양성과정 Lecture
 
-청년취업아카데미에서 공부한 것들을 정리해놓았습니다.
-I organized the lecture I studied at the Youth Employment Academy.
+### 청년취업아카데미에서 공부한 것들을 정리해놓았습니다.
+### I organized the lecture I studied at the Youth Employment Academy.
 
 API :
 - API 를 활용한 데이터 수집법과 json 사용법, 정규표현식을 배웠습니다.
